@@ -7,7 +7,9 @@ This is an effort to create Python tutorials using Jupyter  Notebooks, The first
 To be able to read the notebook, just click on "Intro to Python" above.
 
 ## Wanna Play!! (Interactive Mode)
-To launch the notebook in interactive method (Run example code or try something new) Launch the Binder by clicking below, and then once the binder starts double click on "Intro to Python". 
+To launch the notebook in interactive method (Run example code or try something new) Launch the Binder by clicking the button below, 
+It takes a bit of time to load up everything and get started so please click only once.
+Once the binder starts(You will see a new page with Jupetyr on top), double click on "Intro to Python" and then just follow the instruction on that page. 
 
 
 To launch click on
